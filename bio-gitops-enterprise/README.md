@@ -113,6 +113,7 @@ Implement a **GitOps-driven Kubernetes cluster** tailored for bioinformatics wor
 ---
 
 ## 📁 Project Structure
+```text
 
 bio-gitops-enterprise/
 ├── README.md
