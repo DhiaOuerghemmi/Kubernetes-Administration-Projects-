@@ -185,7 +185,3 @@ bio-gitops-enterprise/
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-_Feel free to customize this template further to match the specific details and progress of your project._
