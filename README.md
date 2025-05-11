@@ -1,4 +1,4 @@
-# 🚀 GitOps-Driven Bioinformatics Cluster Provisioning
+# 🚀 GitOps-Driven Bioinformatics Cluster Provisioning & Management 
 
 > ⚠️ **Project Status:** In Progress  
 > 🚧 This project is currently under active development. Some features may not be fully implemented.
