@@ -1,0 +1,14 @@
+# Example configuration for a self-hosted GitHub Actions runner
+name: bio-gitops-runner
+labels:
+  - self-hosted
+  - linux
+  - x64
+env:
+  RUNNER_ALLOW_RUNASROOT: "1"
+  RUNNER_EPHEMERAL: "true"
+
+# Resources allocation
+concurrency:
+  cancel-in-progress: true
+  group: bio-gitops
